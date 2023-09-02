@@ -1,0 +1,13 @@
+[
+  {
+    "title": "Join our mailing list",
+    "msg": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "mailList": true
+  },
+  {
+    "title": "peppermint",
+    "msg": "Go check out peppermint. Include description of the song",
+    "img": "./post.jpg",
+    "spotifyLink": "https://open.spotify.com/track/7EBungIZdfO2SgFxqFtGfE?si=df42fe238be54db4"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "name": "lavender",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "oh-vue-icons": "^1.0.0-rc3",
+    "vue": "^3.3.4",
+    "vue-keyframes": "^1.0.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.3.1",
+    "vite": "^4.4.9"
+  }
+}
